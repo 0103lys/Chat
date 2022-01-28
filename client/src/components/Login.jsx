@@ -1,6 +1,9 @@
 import React from "react";
+import '../assets/css/common.css';
+import '../assets/css/login.css';
 
-function Main(){
+
+function Login(){
     return(
         <div>
             <div class="inputBox">
@@ -20,4 +23,4 @@ function Main(){
     )
 }
 
-export default Main;
+export default Login;
