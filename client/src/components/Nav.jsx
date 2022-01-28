@@ -1,11 +1,13 @@
 import React from "react";
+import '../assets/css/common.css';
+import '../assets/css/nav.css';
 
 function Nav(){
     return(
         <nav>
             <ul>
-                <li>회원가입</li>
-                <li>로그인</li>
+                <a href="#"><li>회원가입</li></a>
+                <a href="#"><li>로그인</li></a>
             </ul>
         </nav>
 
