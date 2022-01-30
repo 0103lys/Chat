@@ -1,6 +1,13 @@
+.contents {
+    text-align: center;
+}
+.inputBox {
+    display: inline-block;
+}
 .inputItem input{
     border-radius: 3px;
     border: 1px solid #ccc;
     margin-top: 10px;
     background-color: #ececec;
 }
+

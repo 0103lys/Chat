@@ -5,7 +5,7 @@ import '../assets/css/join.css';
 
 function Join(){
     return(
-        <div>
+        <div className="contents">
             <div class="inputBox">
                 <div class="inputItem">
                     <input type="email" placeholder="example@example.com"/>
