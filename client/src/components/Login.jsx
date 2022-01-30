@@ -3,6 +3,7 @@ import '../assets/css/common.css';
 import '../assets/css/login.css';
 
 
+// 홈화면
 function Login(){
     return(
         <div>
