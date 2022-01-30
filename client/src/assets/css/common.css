@@ -1,5 +1,9 @@
+* {
+    font-family: 'IM_Hyemin-Bold';
+}
 body {
     background-color: #E9D4ff;
+    
 }
 a, ul, li {
     text-decoration: none;
