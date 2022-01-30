@@ -8,17 +8,17 @@ function Join(){
         <div className="contents">
             <div class="inputBox">
                 <div class="inputItem">
-                    <input type="email" placeholder="example@example.com"/>
+                    <input type="email" placeholder=" example@example.com"/>
                 </div>
                 <div class="inputItem">
-                    <input type="password" placeholder="비밀번호를 입력하세요."/>
+                    <input type="password" placeholder=" 비밀번호를 입력하세요."/>
                 </div>
                 <div class="inputItem">
-                    <input type="text" placeholder="이름을 입력하세요."/>
+                    <input type="text" placeholder=" 이름을 입력하세요."/>
                 </div>
                 
-                <div>
-                    <button type="submit">확인</button>
+                <div class="btnType">
+                    <button type="submit" class="OkBtn">확인</button>
                 </div>
             </div>
         </div>

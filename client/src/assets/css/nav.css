@@ -1,6 +1,16 @@
 a, ul, li {
     color: #333;
-    font-size: 40px;
+    font-size: 30px;
+}
+.nav {
+    text-align: center;
+}
+.ul {
+    display: inline-block;
+}
+.ul li {
+    float: left;
+    margin-right: 30px;
 }
 
 

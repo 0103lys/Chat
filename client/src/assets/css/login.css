@@ -1,6 +1,31 @@
 .contents {
+    margin-top: 200px;
     text-align: center;
 }
 .inputBox {
     display: inline-block;
+}
+
+.inputItem input{
+    border-radius: 10px;
+    background-color: #fafafa;
+    padding: 5px;
+    font-size: 25px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    
+}
+
+.btnType {
+    margin-top: 30px;
+}
+.btnType .loginBtn{
+    font-size: 22px;
+    font-weight: bold;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+    background-color: #E9D4ff;
+    color: rgb(83, 83, 83);
+
 }
